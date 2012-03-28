@@ -1,13 +1,13 @@
 {
     "author": "Ben Noordhuis <info@bnoordhuis.nl> (http://bnoordhuis.nl/)",
-    "name": "unix-dgram",
+    "name": "unix-dgram-papandreou",
     "version": "0.0.1",
     "description": "Unix datagram socket",
     "main": "src/unix_dgram",
-    "homepage": "https://github.com/bnoordhuis/node-unix-dgram/",
+    "homepage": "https://github.com/papandreou/node-unix-dgram/",
     "repository": {
         "type": "git",
-        "url": "git://github.com/bnoordhuis/node-unix-dgram.git"
+        "url": "git://github.com/papandreou/node-unix-dgram.git"
     },
     "scripts": {
         "preinstall": "node-waf configure build"
